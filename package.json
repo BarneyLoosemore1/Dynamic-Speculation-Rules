@@ -1,0 +1,13 @@
+{
+  "name": "cloudflare_speculation_rules",
+  "version": "1.0.0",
+  "main": "templates.js",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
